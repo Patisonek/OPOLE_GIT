@@ -1,0 +1,129 @@
+Witajcie,
+
+Prosze o wykonanie samodzielnie ponizszych zadań.
+Zadania sa ze sobą powiązane, więc należy wykonywać je po kolei.
+Zadania będą sprawdzane na podstawie - zdalnego repozytorium na github.
+Link do ZR prosze przeslac mailam wg wzrodu.
+
+w tytule:
+ MIASTO_BOOTCAMP IMIE
+
+W tresci maila:
+ link do zdalnego repo
+
+
+
+Rozwiazania zadan prosze przesłać najpóźniej do piątku do 16:00.
+Powodzenia!
+
+
+
+
+
+
+
+Zadanie 1
+-----------------------
+Utworz lokalne repozytorium - "MojeRepo". 
+W katalogu projektu powinny znajdowac się pliki:
+index.html
+style.css
+server.txt
+readme.txt
+password.txt
+token.txt
+
+W branch'u [Master] powinny zostać zapisane pliki:
+index.html
+style.css
+readme.txt
+
+Zadanie 2
+-----------------------
+W LR - "MojeRepo", utworzyć nowego branch'a [DEV].
+Należy w nim zapisac poniższe pliki -w 3 komitach:
+
+new.html
+menu.js
+action.js
+home.html
+webmap.txt
+button.js
+
+
+Zadanie 3
+------------------------
+W LR - "MojeRepo", z branch'u [Dev] prosze utworzyć nowy
+branch [DEV_FUTURE_TASK_1]. Należy w nim zapisac poniższe pliki - w 3 komitach:
+
+content.txt
+text_page1.txt
+text_page2.txt
+
+
+Zadanie 4
+------------------------
+W LR - "MojeRepo" na branch [Dev] nalezy dodac i zapisac plik - 1 komit:
+
+contact.html
+
+
+Zadanie 5
+------------------------
+W LR - "MojeRepo" nalezy wykonac Merge [DEV_FUTURE] do [DEV]
+
+
+Zadanie 6
+------------------------
+W LR - "MojeRepo" wszystkie branche nalezy przeslac do ZR "MIASTO_GIT" na swoje kont hostingu github.
+
+
+Zadanie 7
+------------------------
+W ZD - MIASTO_GIT na Branchu [Master] w pliku "readme.txt" z poziomy przegladarki 
+nalezy zmodyfikowac plik i wpisac do niego tresc: 
+
+"Szkolenie Opole BootCamp 2018"
+
+Zmiany zakomitowac.
+
+
+
+Zadanie 8
+------------------------
+W ZD - MIASTO_GIT na Branch [DEV] w pliku "readme.txt" z poziomu przegladarki nalezy zmodyfikowac plik i wpisac do niego tresc: 
+
+"Moje zadanie z GIT
+Imie"
+
+Zmiany zakomitowac.
+
+
+
+Zadanie 9
+------------------------
+W ZD - MIASTO_GIT wykonujemy PULL REQUEST lączac [DEV] do [Master]
+
+W przpadku konfliktu - prosze go rozwiazac. 
+Zachowujac obydwie wartosci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
